@@ -1,0 +1,13 @@
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.exe
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.deps.json
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.runtimeconfig.json
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.runtimeconfig.dev.json
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.dll
+C:\workspace\GFT\WatchList\WatchList\bin\Debug\netcoreapp3.1\Watchlist.pdb
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.csprojAssemblyReference.cache
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.AssemblyInfoInputs.cache
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.AssemblyInfo.cs
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.csproj.CoreCompileInputs.cache
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.dll
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.pdb
+C:\workspace\GFT\WatchList\WatchList\obj\Debug\netcoreapp3.1\Watchlist.genruntimeconfig.cache
